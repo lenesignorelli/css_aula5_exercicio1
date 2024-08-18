@@ -1,0 +1,34 @@
+.quadrado{
+    border: 3px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    margin: 10px;
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.quadrado1{
+    left: 0px;
+    top: 0px;
+    background-color: darkslategrey;
+}
+
+.quadrado2{
+    right: 0px;
+    bottom: 0px;
+    background-color: crimson;
+}
+
+.quadrado3{
+    left: 0px;
+    bottom: 0px;
+    background-color: darkgreen;
+}
+
+.quadrado4{
+    right: 0px;
+    top: 0px;
+    background-color: darkorchid;
+}
